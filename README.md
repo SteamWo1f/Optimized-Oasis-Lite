@@ -23,7 +23,7 @@ Optimized Oasis Lite is a lightweight Minecraft modpack that enhances your gamep
 
 ## About
 
-The Light version of Optimized Oasis is a Minecraft modpack that focuses on enhancing the gameplay experience through quality of life and optimization mods. These carefully selected mods offer customizable user interface and settings, improved performance for smoother gameplay, and audio and visual enhancements.
+The Light version of Optimized Oasis Lite is a Minecraft modpack that focuses on enhancing the gameplay experience through quality of life and optimization mods. These carefully selected mods offer customizable user interface and settings, improved performance for smoother gameplay, and audio and visual enhancements.
 
 This modpack is designed to provide Minecraft players with an enhanced experience without significantly altering the vanilla gameplay. It is ideal for those who want to improve their gameplay experience without breaking any server rules or risking bans.
 
@@ -34,31 +34,31 @@ This modpack is designed to provide Minecraft players with an enhanced experienc
 #### Automated Install
 
 1. Download and install the [Prism Launcher](https://prismlauncher.org/).
-2. Open the Prism Launcher and select the "Optimized Oasis" modpack from the list of available modpacks.
+2. Open the Prism Launcher and select the "Optimized Oasis Lite" modpack from the list of available modpacks.
 3. Click the "Add Instance" button and search for the modpack.
 4. Click on it and wait for it to download
-5. Once the installation is complete, click the "Launch" button and start playing Optimized Oasis!
+5. Once the installation is complete, click the "Launch" button and start playing Optimized Oasis Lite!
 
 #### Manual Install
 
-1. Download the latest release of the Optimized Oasis modpack from the [releases page](https://github.com/SteamWo1f/Optimized-Oasis/releases).
+1. Download the latest release of the Optimized Oasis Lite modpack from the [releases page](https://github.com/SteamWo1f/Optimized-Oasis/releases).
 2. Extract the contents of the downloaded zip file to a new folder on your computer.
 3. Open the Prism Launcher and click the "Add Instance" button to create a new profile.
 4. Give your new profile a name and select the version of Minecraft that corresponds with the version of the modpack you downloaded.
 5. In the "Import From Zip" section, click on the browse button then select the zipped folder.
 6. Wait for it to Uncompress.
-7. Select your new profile and click the "Launch" button to start playing Optimized Oasis!
+7. Select your new profile and click the "Launch" button to start playing Optimized Oasis Lite!
 
 ### Forge Launcher
 
 1. Open the CurseForge app and ensure it is on Minecraft through the left-side logo.
-2. At the top, you can search for Optimized Oasis.
+2. At the top, you can search for Optimized Oasis Lite.
 3. Once you find the modpack, simply press the “Install” Button.
 4. You can now return to the My Modpacks section to find the downloaded pack and press Play!
 
 ## Credits
 
-Optimized Oasis Modpack created by [SteamWolf](https://steamwolf.vercel.app/)
+Optimized Oasis Lite Modpack created by [SteamWolf](https://steamwolf.vercel.app/)
 
 Panormana World by [o00gareth00o](https://www.planetminecraft.com/member/o00gareth00o/)
 
