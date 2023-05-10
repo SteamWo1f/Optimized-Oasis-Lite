@@ -1,0 +1,14 @@
+name = "Splashy"
+filename = "Splashy-Fabric-1.19.4-12.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5df17fefded85f00a86ba71dfc65380be36f7a31"
+
+[update]
+[update.curseforge]
+file-id = 4447336
+project-id = 354674

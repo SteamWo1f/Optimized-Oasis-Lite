@@ -1,0 +1,14 @@
+name = "Barista - Window Title Editor"
+filename = "Barista-1.19-1.1.2-Fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f82b4ffa9bfcd1a6a4cd46b7c0fba83e5334b5ba"
+
+[update]
+[update.curseforge]
+file-id = 4504248
+project-id = 552324

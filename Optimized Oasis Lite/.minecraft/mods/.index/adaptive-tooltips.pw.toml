@@ -1,0 +1,14 @@
+name = "Adaptive Tooltips"
+filename = "AdaptiveTooltips-1.2.1-fabric-1.19.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9db21c7f87caa99c7ae3230873eabf87ebbfaf2a"
+
+[update]
+[update.curseforge]
+file-id = 4501954
+project-id = 704346

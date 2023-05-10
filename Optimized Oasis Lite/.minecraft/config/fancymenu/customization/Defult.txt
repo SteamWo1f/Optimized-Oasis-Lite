@@ -1,0 +1,289 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = normal
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 48
+  action = movebutton
+  y = 149
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = top-left
+  x = 48
+  action = movebutton
+  y = 201
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -201
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  width = 201
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-left
+  x = 229
+  action = movebutton
+  y = 9
+}
+
+customization {
+  identifier = %id=628394%
+  orientation = mid-left
+  x = 139
+  action = movebutton
+  y = 9
+}
+
+customization {
+  identifier = %id=2980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=2980%
+  orientation = bottom-left
+  x = 243
+  action = movebutton
+  y = -368
+}
+
+customization {
+  identifier = %id=2980%
+  width = 201
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 48
+  action = movebutton
+  y = 123
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = top-left
+  x = 48
+  action = movebutton
+  y = 175
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = -43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = -17
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = 23beab06-ad7d-4204-bfa7-a6b26d5b80f01677453920754
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 95733913-0847-408f-b7d3-88204c5448eb1677453920754
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 7dc63a37-13e4-4847-97b3-d12c93babd061677453920754
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = bottom-left
+  splash_color = #ffff00
+  hidden = true
+  x = 627
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b4400c9b-cad7-476f-a21f-af5cd238162a1677453920754
+  y = -377
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/border.png
+  orientation = mid-left
+  x = 9
+  width = 274
+  action = addtexture
+  actionid = 4db9b69c-f30c-435a-b957-80851ad1834c1683496185835
+  y = -3700
+  height = 6850
+}
+
+customization {
+  orientation = top-right
+  enable_scrolling = false
+  shadow = false
+  scale = 1.0
+  source =  Checkout this project on GitHub:%n% github.com/SteamWo1f/Optimized-Oasis%n%
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -201
+  width = 201
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 779f7280-77ba-40a8-bf4b-457ffee5cb961677547421276
+  y = 0
+  alignment = right
+  base_color = ffffff
+  height = 25
+}
+
+customization {
+  path = config/fancymenu/logo.png
+  orientation = top-centered
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = f87bf1ef-a171-40a5-8863-fcd902054da51683492526009
+  y = 49
+  height = 81
+}
+
+customization {
+  path = config/fancymenu/logo.png
+  orientation = top-left
+  x = 20
+  width = 252
+  action = addtexture
+  actionid = 52a17f16-b309-4564-8624-97090c142c951683495673381
+  y = 22
+  height = 65
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Minecraft 1.19.4/Quilt Loader 0.18.9 (Modded)
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -229
+  width = 229
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = ba08bc3c-8f3e-40fe-bf8b-87a44310083d1683503840010
+  y = -25
+  alignment = centered
+  height = 12
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Puzzle 1.5.0 for 1.19.4
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -116
+  width = 115
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 89955ab6-1d84-41a6-b4d8-26c6ef79d7fd1683504679629
+  y = -40
+  alignment = right
+  height = 12
+}
+

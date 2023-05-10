@@ -1,0 +1,14 @@
+name = "Better Stuck Arrows"
+filename = "better_stuck_arrows-1.19.4-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2e07e03b51cf7b0fd839293580ed3df81a04a626"
+
+[update]
+[update.curseforge]
+file-id = 4491659
+project-id = 850806

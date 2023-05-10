@@ -1,0 +1,14 @@
+name = "Too Many Players"
+filename = "toomanyplayers-1.19.4-1.1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f40533666ce115be7b50d6d1c0f334e3745d5c24"
+
+[update]
+[update.curseforge]
+file-id = 4459039
+project-id = 663273

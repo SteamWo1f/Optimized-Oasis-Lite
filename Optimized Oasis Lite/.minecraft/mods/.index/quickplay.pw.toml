@@ -1,0 +1,14 @@
+name = "Quickplay"
+filename = "QuickplayBackport-1.0.0+1.19.x.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "46eb169102767824a65eaf4e6e05fce0dd6933d6"
+
+[update]
+[update.curseforge]
+file-id = 4486275
+project-id = 849359

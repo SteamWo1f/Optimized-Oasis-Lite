@@ -1,0 +1,14 @@
+name = "Krypton"
+filename = "krypton-0.2.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fb9166a88757582c5b8ca1627a0a275c05db4a5d"
+
+[update]
+[update.curseforge]
+file-id = 4440087
+project-id = 428912

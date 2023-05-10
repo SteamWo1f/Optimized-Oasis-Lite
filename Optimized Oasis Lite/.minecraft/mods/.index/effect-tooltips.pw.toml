@@ -1,0 +1,14 @@
+name = "Effect Tooltips"
+filename = "EffectTooltips-Fabric-1.19.4-7.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "86dd0e4db1654569a00aa71265ac7a7ec7ee334f"
+
+[update]
+[update.curseforge]
+file-id = 4447325
+project-id = 520367

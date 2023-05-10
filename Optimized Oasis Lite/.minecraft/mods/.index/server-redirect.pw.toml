@@ -1,0 +1,14 @@
+name = "Server Redirect"
+filename = "ServerRedirect-FabricMC19-1.4.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "005bc76309a1bd688f8f3b1812bae9aa98b90f2d"
+
+[update]
+[update.curseforge]
+file-id = 4460924
+project-id = 295232

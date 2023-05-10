@@ -1,0 +1,14 @@
+name = "Client Reply Command"
+filename = "reply-mod-1.1.0+1.19.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f65db39f15574b8ffe2b9f132ed70576f34eb4ab"
+
+[update]
+[update.curseforge]
+file-id = 4447599
+project-id = 803196

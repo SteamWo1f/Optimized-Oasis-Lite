@@ -1,0 +1,14 @@
+name = "Compact Help Command"
+filename = "compacthelpcommand-1.19.4-2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f37506b8dd1e09da026af716cb9f49a1db78b83a"
+
+[update]
+[update.curseforge]
+file-id = 4439373
+project-id = 515753

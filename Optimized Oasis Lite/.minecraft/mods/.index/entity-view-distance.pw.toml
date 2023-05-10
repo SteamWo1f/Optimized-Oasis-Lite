@@ -1,0 +1,14 @@
+name = "Entity View Distance"
+filename = "entity-view-distance-1.1.1+1.19.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "60ac0a56dba5de169244209247b1f8d2643ea963"
+
+[update]
+[update.curseforge]
+file-id = 4451608
+project-id = 539244

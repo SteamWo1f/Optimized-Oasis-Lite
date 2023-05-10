@@ -1,0 +1,14 @@
+name = "Convenient Hitboxes"
+filename = "1.19.4-convenient-hitboxes-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "af0e8afebf9df68318719fa0183baee4bd5ad722"
+
+[update]
+[update.curseforge]
+file-id = 4485107
+project-id = 759395

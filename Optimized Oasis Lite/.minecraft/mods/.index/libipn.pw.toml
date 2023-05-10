@@ -1,0 +1,14 @@
+name = "libIPN"
+filename = "libIPN-fabric-1.19.4-2.0.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ae14b4946978f88c32810a89bd7a07e38e287c4f"
+
+[update]
+[update.curseforge]
+file-id = 4512908
+project-id = 679177

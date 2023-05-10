@@ -1,0 +1,14 @@
+name = "Level Text Fix"
+filename = "LevelTextFix-Fabric-1.19.4-5.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cba34be859a14781e10639b94d9a3032641ff6ee"
+
+[update]
+[update.curseforge]
+file-id = 4457566
+project-id = 840817

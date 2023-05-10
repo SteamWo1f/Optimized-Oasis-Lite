@@ -1,0 +1,14 @@
+name = "WorldGen"
+filename = "WorldGen-fabric-1.19.4-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "33fa2b2391311fe64b4fea607515f165e8de88ea"
+
+[update]
+[update.curseforge]
+file-id = 4439602
+project-id = 637354

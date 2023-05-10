@@ -1,0 +1,14 @@
+name = "Better Tags"
+filename = "BetterTags-1.19.4-Fabric-1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "41175ebe9f3d30291572728c6cec74d53592eb58"
+
+[update]
+[update.curseforge]
+file-id = 4520096
+project-id = 682363

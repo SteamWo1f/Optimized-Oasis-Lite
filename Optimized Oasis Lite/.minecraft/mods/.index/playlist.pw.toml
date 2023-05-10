@@ -1,0 +1,14 @@
+name = "Playlist"
+filename = "playlist-1.3.0-1.19.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6352b187da608dda6c16ea4a0b603ea801866452"
+
+[update]
+[update.curseforge]
+file-id = 4507422
+project-id = 641704

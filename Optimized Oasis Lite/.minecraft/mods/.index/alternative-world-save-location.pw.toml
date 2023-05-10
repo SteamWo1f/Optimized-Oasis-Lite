@@ -1,0 +1,14 @@
+name = "Alternative World Save Location"
+filename = "alternativeworldsavelocation-1.19.4-3.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "8667588480b04315b345899bdff0d932cd161c4f"
+
+[update]
+[update.curseforge]
+file-id = 4439455
+project-id = 552418

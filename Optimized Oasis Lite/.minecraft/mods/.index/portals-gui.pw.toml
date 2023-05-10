@@ -1,0 +1,14 @@
+name = "Portals Gui [Fabric/Forge]"
+filename = "portalsgui-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c96ef3c35f4a3eb31888605f08c5df5212f7caa1"
+
+[update]
+[update.curseforge]
+file-id = 4449410
+project-id = 646607

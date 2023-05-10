@@ -1,0 +1,14 @@
+name = "Colorful Anvils"
+filename = "colorfulanvils-1.1.0+1.19.x.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0d5fe51b81c7f21518123e123a90146647ddcd13"
+
+[update]
+[update.curseforge]
+file-id = 4499875
+project-id = 628441

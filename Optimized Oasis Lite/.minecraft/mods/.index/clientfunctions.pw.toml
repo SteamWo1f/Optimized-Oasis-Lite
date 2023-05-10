@@ -1,0 +1,14 @@
+name = "Client Functions"
+filename = "clientfunctions-1.19.4-0.1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "626491822f5cc9ad4948baba4a5ca93dafc20e5f"
+
+[update]
+[update.curseforge]
+file-id = 4462614
+project-id = 819531

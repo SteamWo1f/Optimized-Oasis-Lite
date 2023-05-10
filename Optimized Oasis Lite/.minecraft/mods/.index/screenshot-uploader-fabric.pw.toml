@@ -1,0 +1,14 @@
+name = "Screenshot Uploader (Fabric)"
+filename = "screenshotuploader-1.0.1-1.19.3-4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b5ce536075ab4931513584f1ac3069305dbc3a20"
+
+[update]
+[update.curseforge]
+file-id = 4470689
+project-id = 843787

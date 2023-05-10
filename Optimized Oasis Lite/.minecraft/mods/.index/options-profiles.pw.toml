@@ -1,0 +1,14 @@
+name = "Options Profiles"
+filename = "[Fabric+1.19.3+]+options-profiles+v1.0.1.jar.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7b91c689536bbac4b6de47d8411e20841e9648cb"
+
+[update]
+[update.curseforge]
+file-id = 4516440
+project-id = 853719

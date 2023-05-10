@@ -1,0 +1,14 @@
+name = "Realms Minigame Search"
+filename = "fabric-realmssearch-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f54fd9ea246f4f24429f8603c2095e36ac9004d0"
+
+[update]
+[update.curseforge]
+file-id = 4495006
+project-id = 847001

@@ -1,0 +1,14 @@
+name = "IceCream"
+filename = "icecream-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c197f9fb6bfd3e6c6964e3b36b50f4730683fcf6"
+
+[update]
+[update.curseforge]
+file-id = 4467916
+project-id = 827634

@@ -1,0 +1,14 @@
+name = "First Join Message"
+filename = "firstjoinmessage-1.19.4-3.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9866558b64b5f0c1bf4b951f7317fa8bbc010836"
+
+[update]
+[update.curseforge]
+file-id = 4439254
+project-id = 390733

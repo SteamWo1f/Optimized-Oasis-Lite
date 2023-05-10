@@ -1,0 +1,14 @@
+name = "Disable Compliance Notification"
+filename = "disable_compliance_notification-v1.3.0+fabric-1.19.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6d605a02214384543a6cfa9cdddc4d64c6a3a14e"
+
+[update]
+[update.curseforge]
+file-id = 4519668
+project-id = 644324
