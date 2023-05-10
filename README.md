@@ -1,10 +1,10 @@
 ![logo](https://github.com/SteamWo1f/Optimized-Oasis/blob/1ba69b88ea0d6c8dbb80ab1579a1714b6fa1fd69/Optimized%20Oasis/Images/banner.png)
 
 <p align="center">
-  <a href="https://www.curseforge.com/minecraft/modpacks/optimized-oasis">
+  <a href="https://www.curseforge.com/minecraft/modpacks/optimized-oasis-lite">
     <img src="https://img.shields.io/badge/Download%20From-CurseForge-%23F16436">
   </a>
-  <a href="https://github.com/SteamWo1f/Optimized-Oasis/releases">
+  <a href="https://github.com/SteamWo1f/Optimized-Oasis-Lite/releases">
     <img src="https://img.shields.io/badge/Download%20From-GitHub-%23171515">
   </a>
 </p>
